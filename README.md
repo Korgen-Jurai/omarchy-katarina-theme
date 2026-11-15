@@ -2,6 +2,10 @@
 
 Katarina is a dark palette sampled directly from the *Battle Academia Katarina* wallpaper: a deep plum-black background pulled from the uniform, a hot pink accent from the hair, magenta from the gloves and skirt, and warm gold from the blade and classroom light. Gaps, corner rounding, and animations are all matched to the X-1632 theme (`gaps_in = 6`, `gaps_out = 8`, `rounding = 22`, `rounding_power = 1`).
 
+## Preview
+
+![Theme preview](preview.png)
+
 ## Install
 
 ```bash
